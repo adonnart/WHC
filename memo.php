@@ -55,7 +55,7 @@ Reversement individuel sur le mois en cours : $
 
 Reversement individuel cumulé sur l'année en cours : $
 
-Gain du cabinet : $
+Gain du cabinet : $ [...] Détails
 
 Gamification (nombre de points cumulés) : $
 
@@ -69,17 +69,17 @@ Taux de remplissage M+1 individuel : **%
 
 Taux de remplissage M+1 collectif : **%
 
-Prochain remplacement : Dr LEBLAIS Marc     Le contacter : Mail | Portable (liens)
-
-Envoyer un message | Liste des contacts
-
 -----------------------------------------------------------------------------------------------------------------------
 + COLLABORATION
 -----------------------------------------------------------------------------------------------------------------------
 
+Prochain remplacement : Dr LEBLAIS Marc     Le contacter : Mail | Portable (liens)
+
+Envoyer un message | Liste des contacts
+
 > Tapez ici l'info que vous souhaitez communiquer à l'ensemble du cabinet.
 
-> Tapez ici les infos et directives à donner aux assistants.
+> Tapez ici les infos et directives à donner aux assistants. (Joindre un document)
 
 -----------------------------------------------------------------------------------------------------------------------
 + SMART ASSISTANT
